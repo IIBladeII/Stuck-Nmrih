@@ -43,8 +43,9 @@ To compile the plugin, use the following command:
 
 ## Developer Information
 - Version: 1.5
-- Author: Erreur 500 (Modified for NMRIH)
-- Contact: erreur500@hotmail.fr
+- Author: IIBladeII
+- Contact: bladeghost07@gmail.com
+- GitHub: https://github.com/IIBladeII
 
 ## License
 This plugin is released under the GNU General Public License v3.0. See the `LICENSE` file for more details.

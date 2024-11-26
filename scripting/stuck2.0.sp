@@ -5,10 +5,10 @@
 #include <sdktools>
 
 #define PLUGIN_NAME         "NMRIH Stuck Fix"
-#define PLUGIN_AUTHOR       "Erreur 500 (Modified for NMRIH)"
+#define PLUGIN_AUTHOR       "IIBladeII"
 #define PLUGIN_DESCRIPTION  "Fix stuck players in NMRIH"
 #define PLUGIN_VERSION      "1.5"
-#define PLUGIN_CONTACT      "erreur500@hotmail.fr"
+#define PLUGIN_CONTACT      "bladeghost07@gmail.com"
 
 #define MAX_NMRIH_PLAYERS 9
 #define COOLDOWN_TIME 20 // Cooldown of 20 seconds between uses
